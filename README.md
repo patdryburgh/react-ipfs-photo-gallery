@@ -1,3 +1,7 @@
+## ⚠️ THIS PROJECT IS NO LONGER MAINTAINED ⚠️
+
+Work on this project has migrated to https://github.com/fission-suite/ipfs-photo-gallery.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
